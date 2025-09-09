@@ -1,0 +1,26 @@
+/* General styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: linear-gradient(120deg, #6a11cb, #2575fc);
+  color: white;
+  text-align: center;
+  animation: fadeIn 2s ease-in-out;
+}
+
+header {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  position: sticky;
+  top: 0;
+}
+
+.title {
+  font-size: 2.5rem;
+  animation: slideDown 1s ease-in-out;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}￼Enter
